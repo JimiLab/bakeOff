@@ -1,2 +1,2 @@
 # bakeOff
-ISMIR 2015 babyyyyyyyyyyyyyyy
+ISMIR 2015 bby
